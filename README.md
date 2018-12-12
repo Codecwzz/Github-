@@ -23,5 +23,5 @@ Github基本操作（中标题）
 ### 单行文本
 使用两个Tab符实现单行文本。 
 大家好，我是渣渣辉。
-大家好，我系渣渣辉。  
+
 本文部分内容转载自 http://blog.csdn.net/guodongxiaren/article/details/23690801 ,主要是熟悉GitHub的一些基本操作。
