@@ -38,4 +38,4 @@ ___
 ### 换行  
 直接回车不能换行，可以在上一行文本后面补两个空格，这样下一行的文本就换行了。或者就是在两行文本直接加一个空行,也能实现换行效果，不过这个行间距有点大。
     
-本文部分内容转载自 http://blog.csdn.net/guodongxiaren/article/details/23690801 ,主要是熟悉GitHub的一些基本操作。
+本文部分内容转载自 http://blog.csdn.net/guodongxiaren/article/details/23690801 ,GitHub地址:https://github.com/guodongxiaren/README 主要是熟悉GitHub的一些基本操作。
