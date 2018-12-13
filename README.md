@@ -309,6 +309,6 @@ GitHub地址:[https://github.com/guodongxiaren/README](https://github.com/guodon
 [zhihu]:https://www.zhihu.com/people/jellywong "果冻虾仁的知乎，欢迎关注"
 [weibo]:http://weibo.com/linpiaochen
 [baidu-logo]:http://www.baidu.com/img/bdlogo.gif "百度logo"
-[weibo-logo]:/img/weibo.png "点击图片进入果冻虾仁的微博"
-[csdn-logo]:/img/csdn.png "我的CSDN博客"
-[foryou]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
+[weibo-logo]:/img/weibo.png "微博logo"
+[csdn-logo]:/img/csdn.png "CSDN博客logo"
+[foryou]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif "Codecwzz笑笑不说话"
