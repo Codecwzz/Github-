@@ -301,7 +301,7 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 - 鸟宿池边树，僧推月下门
 ```
 
-转载自cssdn博客地址:[http://blog.csdn.net/guodongxiaren/article/details/23690801(http://blog.csdn.net/guodongxiaren/article/details/23690801)。 
+转载自cssdn博客地址:[http://blog.csdn.net/guodongxiaren/article/details/23690801](http://blog.csdn.net/guodongxiaren/article/details/23690801)。 
 
 GitHub地址:[https://github.com/guodongxiaren/README](https://github.com/guodongxiaren/README) 
 
