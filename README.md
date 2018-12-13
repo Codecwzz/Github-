@@ -101,8 +101,8 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 
 |#|语法|效果|
 |---|----|-----|
-|1|`[我的博客](http://blog.csdn.net/Codecwzz "悬停显示")`|[我的博客](http://blog.csdn.net/Codecwzz "悬停显示")|
-|2|`[我的知乎][zhihu] `|[我的知乎][zhihu] |
+|1|`[Codecwzz的博客](http://blog.csdn.net/Codecwzz "悬停显示")`|[Codecwzz的博客](http://blog.csdn.net/Codecwzz "悬停显示")|
+|2|`[果冻虾仁的知乎][zhihu] `|[果冻虾仁的知乎][zhihu] |
 
 语法2由两部分组成：
 - 第一部分使用两个中括号，[ ]里的标识符（本例中zhihu），可以是数字，字母等的组合，标识符上下对应就行了（**姑且称之为URL标识符**）
@@ -301,11 +301,11 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 - 鸟宿池边树，僧推月下门
 ```
 
-转载自cssdn博客地址:http://blog.csdn.net/guodongxiaren/article/details/23690801  
-GitHub地址:https://github.com/guodongxiaren/README 
+转载自cssdn博客地址:[http://blog.csdn.net/guodongxiaren/article/details/23690801(http://blog.csdn.net/guodongxiaren/article/details/23690801)。 
+
+GitHub地址:[https://github.com/guodongxiaren/README](https://github.com/guodongxiaren/README) 
 
 --------------------------------
-[csdn]:http://blog.csdn.net/guodongxiaren "果冻虾仁的博客"
 [zhihu]:https://www.zhihu.com/people/jellywong "果冻虾仁的知乎，欢迎关注"
 [weibo]:http://weibo.com/linpiaochen
 [baidu-logo]:http://www.baidu.com/img/bdlogo.gif "百度logo"
