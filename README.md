@@ -376,6 +376,7 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 GitHub地址:[https://github.com/guodongxiaren/README](https://github.com/guodongxiaren/README) 
 
 --------------------------------
+[csdn]:http://blog.csdn.net/Codecwzz "Codecwzz的博客"
 [zhihu]:https://www.zhihu.com/people/jellywong "果冻虾仁的知乎，欢迎关注"
 [weibo]:http://weibo.com/linpiaochen
 [baidu-logo]:http://www.baidu.com/img/bdlogo.gif "百度logo"
